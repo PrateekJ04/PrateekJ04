@@ -1,3 +1,16 @@
+I'm Prateek Joshi
+====================================
+Test Automation Engineer
+--------------------
+I've been learning coding for 2+ years and have great exposure in Python pytest framework.
+* 💻  I am Test Automation Engineer
+* 🌍  I'm based in Nagpur India
+* ✉️   You can contact me at [jprat786@gmail.com)
+* 🧠  I'm currently exploring CI with Jenkins and Playwright with Python
+* 🤝  I'm open to collaborating on projects that can be interesting now & then
+* ⚡   Playwright is overtaking the legacy by selenium
+
+
 👨‍💻 Test Automation Enthusiast: 
 I’m a passionate Test Automation Engineer with 2+ years of experience building efficient, reliable, and scalable test automation frameworks using pytest.
 I specialize in automated testing, ensuring high-quality software through effective unit, integration, and end-to-end testing. 
