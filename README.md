@@ -4,7 +4,7 @@ Test Automation Engineer
 --------------------
 I've been learning coding for 2+ years and have great exposure in Python pytest framework.
 * 💻  I am Test Automation Engineer
-* 🌍  I'm based in Nagpur India
+* 🌍  I'm based in India
 * ✉️   You can contact me at [jprat786@gmail.com)
 * 🧠  I'm currently exploring CI with Jenkins and Playwright with Python
 * 🤝  I'm open to collaborating on projects that can be interesting now & then
